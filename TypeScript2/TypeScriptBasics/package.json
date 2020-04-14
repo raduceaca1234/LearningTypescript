@@ -1,0 +1,12 @@
+{
+  "name": "typescriptbasics",
+  "version": "1.0.0",
+  "main": "classes.js",
+  "scripts": {
+    "start":"tsc && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
